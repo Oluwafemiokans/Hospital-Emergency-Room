@@ -26,7 +26,7 @@ In the initial data preparation phase, we performed the following
 2. Handling missing values
 3. Data Cleaning and Formatting
 
-## Business Questions
+## Medical Questions
 
 1. What is the total patients by Gender
 
@@ -35,3 +35,13 @@ In the initial data preparation phase, we performed the following
 3. What is the total patients referral by Department
 
 4. Total Patients
+
+## Recommendation
+
+1. I recommend delving deeper into the patient flow within the ER
+
+2.  Identifying bottlenecks, and optimizing resource allocation for improved efficiency
+
+3.  Consider analyzing wait times, patient outcomes, peak hours to streamline operations.
+
+4.   Implemnting predictive analytics for patients influx can also help in proactive resource management. 
